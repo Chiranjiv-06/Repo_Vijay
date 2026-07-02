@@ -23,4 +23,4 @@ A simple beginner project built using HTML and CSS.
 
 ## Author
 
-Your Name
+Chiranjiv Kuhikar
