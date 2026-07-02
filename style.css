@@ -1,3 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 80px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #222;
+}
+
 p {
-    color : blue;
+    color: royalblue;
+    font-size: 18px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: royalblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1d4ed8;
+}
+
+select {
+    padding: 8px;
 }
