@@ -1,4 +1,4 @@
-# 🌐 Simple Portfolio Website
+# 🌐 Static Portfolio Website
 
 A modern and responsive personal portfolio website built using **HTML5**, **CSS3**, and **JavaScript**. This project serves as a personal web portfolio to showcase professional information, technical skills, featured projects, educational background, and contact details in a clean, interactive, and user-friendly interface.
 
@@ -55,7 +55,7 @@ The project also serves as a practical exercise for learning responsive web desi
 # 📂 Project Structure
 
 ```
-Simple-Portfolio-Website/
+Static-Portfolio-Website/
 │
 ├── index.html
 ├── styles.css
@@ -161,13 +161,13 @@ Contact Section
 Clone the repository
 
 ```bash
-git clone https://github.com/Chiranjiv-06/simple-portfolio-website.git
+git clone https://github.com/Chiranjiv-06/static-portfolio-website.git
 ```
 
 Navigate to the project folder
 
 ```bash
-cd simple-portfolio-website
+cd static-portfolio-website
 ```
 
 Open the project
